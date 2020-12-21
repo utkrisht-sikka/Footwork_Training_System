@@ -1,7 +1,6 @@
 # Footwork_Training_System
 Description<br>
-I created this project under the  guidance of our Professor Dr. Aman with the combined efforts of my teammates.It is rectangular shaped ,easy to handle , elegant looking , lacks external wiring,
-and learning moves can be customized.We talked to badminton players and identified their problems. We tested the prototype and revised it several times based on reviews.
+I created this project under the  guidance of our Professor Dr. Aman with the combined efforts of my teammates.It consist of a rectangular shaped ,easy to handle , elegant looking , devoid of external wiring, wooden box.Within the box we have several wires connecting 6 ldr sensors to arduino. Learning moves can be customized.We talked to badminton players and identified their problems. We tested the prototype and revised it several times based on reviews.
 This project helped badminton players of my college master complex foot moves 
 
 Video<br>
