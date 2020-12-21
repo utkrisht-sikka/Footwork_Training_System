@@ -11,6 +11,20 @@ https://drive.google.com/file/d/1Dks3tPVEeJDvvNpWkNYb9IN4BZqIvfs0/view?usp=shari
 
 <h2>Webpage</h2>
 Link to webpage: https://footworktraining.wordpress.com/
+<h2>Hardware Components used </h2>
+<ul>
+<li>Arduino Uno</li>
+<li>Light Dependent Resistor</li>
+<li>Resistor</li>
+Wires
+</ul>
+<h2>Software Components used </h2>
+<ul>
+<li>Autodesk Fusion 360</li>
+<li>Autodesk AutoCad</li>
+<li>Arduino IDE</li>
+<li>Python programming</li>
+</ul>
 <h2>Steps to Getting Started</h2>
 For Windows10
 <ol>
