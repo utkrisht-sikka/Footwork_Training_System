@@ -16,7 +16,7 @@ Link to webpage: https://footworktraining.wordpress.com/
 <li>Arduino Uno</li>
 <li>Light Dependent Resistor</li>
 <li>Resistor</li>
-Wires
+<li>Wires</li>
 </ul>
 <h2>Software Components used </h2>
 <ul>
