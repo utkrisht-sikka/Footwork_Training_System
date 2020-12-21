@@ -28,6 +28,6 @@ For Windows10
  <li> Once you are on desired practice set, press space bar.</li>
  <li> The python app will display a 2x3 grid of squares and one of them is colored pink.It indicates the next square on the wooden box on which the you are supposed to step on.  On stepping correctly, the app colors pink the next square on which the person should step.</li>
 </ol>
-img src="grid.PNG" width="350" >
- <li> Happy Training!</li>
+<img src="grid.PNG" width="350" >
+ <h3> Happy Badminton Training! </h3>
  
