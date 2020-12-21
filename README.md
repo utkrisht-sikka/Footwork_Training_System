@@ -20,5 +20,5 @@ For Windows10
 <li>Connect the wooden box cable with laptop usb port.</li>
 <li>Open command prompt.</li>
 <li>Navigate to the  directory where python code is present.</li>
-<li>Type and enter "python .py"</li>
+<li>Type and enter "python app_v5.py".</li>
 </ol>
