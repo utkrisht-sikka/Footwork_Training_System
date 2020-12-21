@@ -24,7 +24,7 @@ For Windows10
 <ol start="6">
  <li> Toggle among the practice sets using left and right arrow key.</li>
  <li> Once you are on desired practice set, press space bar.</li>
- <li> The python app will display a 2x3 grid of squares and one of them is colored pink. Pink square corresponds to the next square on the wooden box on which you are supposed to step on.  On stepping correctly,     the next square in the sequence is marked pink on the screen.</li>
+ <li> The python app will display a 2x3 grid of squares and one of them is colored pink. Pink square corresponds to the square of the wooden box on which you are supposed to step on.  On stepping correctly, the display will update. Another square will become pink. In this way, squares will turn pink in a predefined sequence.</li>
 </ol>
 <img src="grid.PNG" width="350" >
  <h3> Happy Badminton Training! </h3>
