@@ -21,5 +21,5 @@ For Windows10
 <li>Open command prompt.</li>
 <li>Navigate to the  directory where python code is present.</li>
 <li>Type and enter "python app_v5.py".Below screen should appear.</li>
- <img src=""  width="200">
+ ![](../master/menuscreen.PNG)
 </ol>
