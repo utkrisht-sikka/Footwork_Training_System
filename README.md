@@ -17,7 +17,7 @@ Link to webpage: https://footworktraining.wordpress.com/
 For Windows10
 <ol>
 <li>Download the python code.</li>
-<li>Connect the wooden box cable with laptop usb port.</li>
+<li>Connect the cable of wooden box with laptop usb port.</li>
 <li>Open command prompt.</li>
 <li>Navigate to the  directory where python code is present.</li>
 <li>Type and enter "python app_v5.py".</li>
