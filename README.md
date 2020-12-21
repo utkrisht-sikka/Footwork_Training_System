@@ -1,7 +1,6 @@
 # Footwork_Training_System
 Description<br>
-I created this project under the  guidance of our Professor Dr. Aman with the combined efforts of my teammates.It consist of a rectangular shaped ,easy to handle , elegant looking , devoid of external wiring, wooden box.Within the box we have several wires connecting 6 ldr sensors to arduino. Learning moves can be customized.We talked to badminton players and identified their problems. We tested the prototype and revised it several times based on reviews.
-This project helped badminton players of my college master complex foot moves 
+I created this project under the  guidance of our Professor Dr. Aman with the combined efforts of my teammates.It consist of a rectangular shaped ,easy to handle , elegant looking , devoid of external wiring, wooden box.Within the box we have several wires connecting 6 ldr sensors to arduino. There are 6 holes on the box each containing an ldr. The python app displays a 2x3 grid of squares and one of them is colored pink.It indicates the next square on which the person is supposed to step on.  On stepping correctly, the app colors pink the next square on which the person should step. Right now there are 3 sets of sequence of foot moves hardcoded in the program.This project helped badminton players of my college master complex foot moves.
 
 Video<br>
 Link to a 2 to 3-min Video uploaded on Youtube as an unlisted video with access permissions to
