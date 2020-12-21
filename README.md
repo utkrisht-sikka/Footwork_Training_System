@@ -15,9 +15,10 @@ https://drive.google.com/file/d/1Dks3tPVEeJDvvNpWkNYb9IN4BZqIvfs0/view?usp=shari
 Link to webpage: https://footworktraining.wordpress.com/
 <h2>Steps to Getting Started</h2>
 For Windows10
-1. Download the python code.
-2. Connect the wooden box cable with laptop usb port.
-3. Open command prompt.
-4. Navigate to the  directory where python code is present.
-5. Type and enter "python .py"
-
+<ol>
+<li>Download the python code.</li>
+<li>Connect the wooden box cable with laptop usb port.</li>
+<li>Open command prompt.</li>
+<li>Navigate to the  directory where python code is present.</li>
+<li>Type and enter "python .py"</li>
+</ol>
