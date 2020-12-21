@@ -3,12 +3,11 @@
 I created this project under the  guidance of our Professor Dr. Aman with the combined efforts of my teammates.It consist of a rectangular shaped ,easy to handle , elegant looking , devoid of external wiring, wooden box.Within the box we have several wires connecting 6 ldr sensors to arduino. There are 6 squares on the box. Each square has a hole.Each hole  contains an ldr. Right now, in python app, there are 3 sets of sequence of foot moves hardcoded in the program. This project helped badminton players of my college master complex foot moves.
 
 <h2>Video</h2>
-Link to a 2 to 3-min Video uploaded on Youtube as an unlisted video with access permissions to
+Link to a 2 to 3-min Video uploaded on Youtube as an unlisted video 
 anyone with the link: https://youtu.be/_Ta59_hrOT0
 
 <h2>Poster</h2>
-Link to PDF of an A3 size poster uploaded on Google Drive with access permissions to anyone
-with the link:
+Link to poster :
 https://drive.google.com/file/d/1Dks3tPVEeJDvvNpWkNYb9IN4BZqIvfs0/view?usp=sharing
 
 <h2>Webpage</h2>
