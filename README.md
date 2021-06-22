@@ -7,7 +7,7 @@ Link to a 2 to 3-min Video uploaded on Youtube as an unlisted video  https://you
 
 <h2>Poster</h2>
 Link to poster :
-https://drive.google.com/file/d/1Dks3tPVEeJDvvNpWkNYb9IN4BZqIvfs0/view?usp=sharing
+https://drive.google.com/file/d/1hpQ_SB-2pGR3mCkIi--OWUTlkylhkggz/view?usp=sharing
 
 <h2>Webpage</h2>
 Link to webpage: https://footworktraining.wordpress.com/
